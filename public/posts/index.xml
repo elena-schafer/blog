@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on Elena&#39;s Corner of Shame</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on Elena&#39;s Corner of Shame</description>
+    <generator>Hugo -- 0.136.1</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 16 Oct 2024 21:13:28 -0600</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Rice and the Desktop</title>
+      <link>http://localhost:1313/posts/rice-and-the-desktop/</link>
+      <pubDate>Wed, 16 Oct 2024 21:13:28 -0600</pubDate>
+      <guid>http://localhost:1313/posts/rice-and-the-desktop/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;m currently in the process of customizing my linux desktop, what the cool kids call &amp;ldquo;ricing.&amp;rdquo;
+It&amp;rsquo;s fun but I feel I need to lay out the whole process, and what I want to do somewhere, so like a sane person I spun up a blog to write it out on.
+Honestly this post is mostly for me, but if you want to learn about ricing, look at this &lt;a href=&#34;https://namishh.me/blog/ricing/&#34;&gt;other person&amp;rsquo;s post&lt;/a&gt;.
+So anyway, let&amp;rsquo;s get on with it!&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>My First Post</title>
+      <link>http://localhost:1313/posts/my-first-post/</link>
+      <pubDate>Wed, 16 Oct 2024 21:10:06 -0600</pubDate>
+      <guid>http://localhost:1313/posts/my-first-post/</guid>
+      <description>&lt;h2 id=&#34;this-is-my-first-post&#34;&gt;This is my first post!&lt;/h2&gt;
+&lt;p&gt;Hi Ellie!&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
