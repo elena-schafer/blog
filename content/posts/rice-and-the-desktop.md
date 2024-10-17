@@ -26,8 +26,8 @@ In addition I love NeoVim and will use it every chance I get; It's what I'm writ
 
 ## What I have so far
 
-![desktop_sample](/images/rice-and-the-desktop/desktop_sample.png#center)
-![desktop_sample2](/images/rice-and-the-desktop/desktop_sample2.png#center)
+![desktop_sample](../images/rice-and-the-desktop/desktop_sample.png#center)
+![desktop_sample2](../images/rice-and-the-desktop/desktop_sample2.png#center)
 
 It looks alright, still have some theming work to do on some applications though.
 I love the partially transparent terminal though, my absolute favorite.
