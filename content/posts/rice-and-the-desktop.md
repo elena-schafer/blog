@@ -2,6 +2,7 @@
 date = '2024-10-16T21:13:28-06:00'
 draft = false
 title = 'Rice and the Desktop'
+tags = ["ricing"]
 +++
 
 I'm currently in the process of customizing my linux desktop, what the cool kids call "ricing."

@@ -4,3 +4,45 @@ title = "Elena's Corner of Shame"
 theme = 'PaperMod'
 
 outputs.home = ["HTML","RSS","JSON"]
+
+[languages.en]
+languageName = "English"
+weight = 1
+taxonomies.category = "categories"
+taxonomies.tags = "tags"
+taxonomies.series = "series"
+[[languages.en.menu.main]]
+name = "Archive"
+weight = 5
+url = "archives"
+[[languages.en.menu.main]]
+name = "Search"
+weight = 10
+url = "search"
+[[languages.en.menu.main]]
+name = "Tags"
+weight = 10
+url = "tags"
+
+
+[params]
+ShowAllPagesInArchive = true
+
+[params.homeInfoParams]
+Title = "Welcome to the Nerd Zone"
+Content = "Hello, I'm Elena Schafer. I'm a autistic trans woman with two bachelors. One in Computer Science and the other in Mathematics. I also sing and play the piano! I'm here to post whatever I feel like, but it will probably mostly be computer and math stuff."
+
+[params.profilesMode]
+enabled = false
+
+[[params.profileMode.buttons]]
+name = "Archives"
+url = "archives"
+
+[[params.profileMode.buttons]]
+name = "Search"
+url = "search"
+
+[[params.socialIcons]]
+name = "GitHub"
+url = "https://github.com/elena-schafer"
