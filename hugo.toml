@@ -30,7 +30,7 @@ ShowAllPagesInArchive = true
 
 [params.homeInfoParams]
 Title = "Welcome to the Nerd Zone"
-Content = "Hello, I'm Elena Schafer. I'm a autistic trans woman with two bachelors. One in Computer Science and the other in Mathematics. I also sing and play the piano! I'm here to post whatever I feel like, but it will probably mostly be computer and math stuff."
+Content = "Hello, I'm Elena Schafer. I'm an autistic trans woman with two bachelors. One in Computer Science and the other in Mathematics. I also sing and play the piano! I'm here to post whatever I feel like, but it will probably mostly be computer and math stuff."
 
 [params.profilesMode]
 enabled = false
