@@ -1,5 +1,5 @@
 +++
-date = '2025-05-14T16:03:49-06:00'
+date = '2025-05-14'
 draft = false
 title = 'Cause and Effect'
 +++
